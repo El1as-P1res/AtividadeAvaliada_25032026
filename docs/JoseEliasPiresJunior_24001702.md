@@ -130,6 +130,7 @@ Os casos de uso do meu MVP são:
 - UC08 — Buscar Produto
 - UC09 — Alertar Estoque Baixo
 - UC10 — Ver Contas a Receber
+![Diagrama de Casos de Uso](diagrama_casos_de_uso_farmacia.svg))
 
 **Relacionamentos principais:**
 
